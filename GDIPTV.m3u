@@ -147,23 +147,23 @@ http://10.0.0.3:5140/rtp/239.253.43.124:5146
 http://10.0.0.3:5140/rtp/239.253.43.82:5146
 #EXTINF:-1 tvg-id="" tvg-name="阳江-2" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/YangJiangTV.png" group-title="广东电视",阳江-2高清
 http://10.0.0.3:5140/rtp/239.253.43.83:5146
-#EXTINF:-1 tvg-id="126" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台
+#EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="126" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台(多音轨字幕)
+#EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-id="126" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台TVB PLUS(多音轨字幕)
+#EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台TVB PLUS(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="126" tvg-name="TVB 明珠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBpearl.png" group-title="港台频道",TVB 明珠台(多音轨字幕)
+#EXTINF:-1 tvg-id="121" tvg-name="TVB 明珠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBpearl.png" group-title="港台频道",TVB 明珠台(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-id="130" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
+#EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
 http://r.jdshipin.com/CkuBd
-#EXTINF:-1 tvg-id="130" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
+#EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
 http://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 tvg-id="130" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
+#EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-#EXTINF:-1 tvg-id="130" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
+#EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
 #http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-id="130" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
+#EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
 #http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-id="416" tvg-name="J1" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB%20J1.png" group-title="港台频道",J1
 #http://67.220.67.246:2347/livehttpplay?channel_id=30023
@@ -203,7 +203,7 @@ https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="" tvg-name="now新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/Nownews.png" group-title="港台频道",now新聞台
 https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now財經台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/Nowcj.png" group-title="港台频道",now財經台
+#EXTINF:-1 tvg-id="164" tvg-name="now財經台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/Nowcj.png" group-title="港台频道",now財經台
 https://stream1.freetv.fun/6f9c76c500afbfd33350f7e4ab4b7051a577ab6e5f1a9317b35b8c7f1f838512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now星影台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/NOWm.png" group-title="港台频道",now星影台
 #http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
@@ -229,27 +229,27 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK36" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/RTHK36.png" group-title="港台频道",港台電視RTHK36
 #https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
 #http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
 https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
 #http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
 https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVzx.png" group-title="港台频道",鳳凰資訊
+#EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVzx.png" group-title="港台频道",鳳凰資訊
 http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVzx.png" group-title="港台频道",鳳凰資訊
+#EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVzx.png" group-title="港台频道",鳳凰資訊
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVzx.png" group-title="港台频道",鳳凰資訊
+#EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVzx.png" group-title="港台频道",鳳凰資訊
 http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163871
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰香港" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVhk.png" group-title="港台频道",鳳凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="鳳凰香港" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVhk.png" group-title="港台频道",鳳凰香港
 http://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰香港" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVhk.png" group-title="港台频道",鳳凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="鳳凰香港" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/PHTVhk.png" group-title="港台频道",鳳凰香港
 https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚洲卫视" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/ASTV.png" group-title="港台频道",亚洲卫视
 https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
@@ -397,59 +397,59 @@ http://10.0.0.3:5140/rtp/239.77.1.161:5146
 http://10.0.0.3:5140/rtp/239.77.0.133:5146
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV15.png" group-title="央视频道",CCTV-15音乐 高清
 http://10.0.0.3:5140/rtp/239.77.1.239:5146
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV-16奥林匹克" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克高清
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV-16奥林匹克" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克高清
 http://10.0.0.3:5140/rtp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农业农村" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV17.png" group-title="央视频道",CCTV-17农业农村高清
 http://10.0.0.3:5140/rtp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农业农村" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV17.png" group-title="央视频道",CCTV-17农业高清
 http://10.0.0.3:5140/rtp/239.77.0.198:5146
-#EXTINF:-1 tvg-id="6563" tvg-name="CCTV-兵器科技" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVbq.png" group-title="央视频道", CCTV-兵器科技
+#EXTINF:-1 tvg-id="1652" tvg-name="CCTV-兵器科技" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVbq.png" group-title="央视频道", CCTV-兵器科技
 http://10.0.0.3:5140/rtp/239.253.43.9:5146
-#EXTINF:-1 tvg-id="6563" tvg-name="CCTV-兵器科技" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVbq.png" group-title="央视频道", CCTV-兵器科技
+#EXTINF:-1 tvg-id="1652" tvg-name="CCTV-兵器科技" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVbq.png" group-title="央视频道", CCTV-兵器科技
 http://10.0.0.3:5140/rtp/239.253.43.18:5146
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV-电视指南" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVds.png" group-title="央视频道", CCTV-电视指南
 http://10.0.0.3:5140/rtp/239.253.43.10:5146
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV-电视指南" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVds.png" group-title="央视频道", CCTV-电视指南
 http://10.0.0.3:5140/rtp/239.253.43.19:5146
-#EXTINF:-1 tvg-id="6000" tvg-name="CCTV-风云足球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfooball.png" group-title="央视频道", CCTV-风云足球
+#EXTINF:-1 tvg-id="1424" tvg-name="CCTV-风云足球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfooball.png" group-title="央视频道", CCTV-风云足球
 http://10.0.0.3:5140/rtp/239.253.43.14:5146
-#EXTINF:-1 tvg-id="6000" tvg-name="CCTV-风云足球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfooball.png" group-title="央视频道", CCTV-风云足球
+#EXTINF:-1 tvg-id="1424" tvg-name="CCTV-风云足球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfooball.png" group-title="央视频道", CCTV-风云足球
 http://10.0.0.3:5140/rtp/239.253.43.20:5146
 #EXTINF:-1 tvg-id="6584" tvg-name="CCTV-央视台球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVtq.png" group-title="央视频道", CCTV-央视台球
 http://10.0.0.3:5140/rtp/239.253.43.11:5146
 #EXTINF:-1 tvg-id="6584" tvg-name="CCTV-央视台球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVtq.png" group-title="央视频道", CCTV-央视台球
 http://10.0.0.3:5140/rtp/239.253.43.21:5146
-#EXTINF:-1 tvg-id="6568" tvg-name="CCTV-高尔夫·网球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVgolf.png" group-title="央视频道", CCTV-高尔夫·网球
+#EXTINF:-1 tvg-id="1657" tvg-name="CCTV-高尔夫·网球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVgolf.png" group-title="央视频道", CCTV-高尔夫·网球
 http://10.0.0.3:5140/rtp/239.253.43.12:5146
-#EXTINF:-1 tvg-id="6568" tvg-name="CCTV-高尔夫·网球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVgolf.png" group-title="央视频道", CCTV-高尔夫·网球
+#EXTINF:-1 tvg-id="1657" tvg-name="CCTV-高尔夫·网球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVgolf.png" group-title="央视频道", CCTV-高尔夫·网球
 http://10.0.0.3:5140/rtp/239.253.43.22:5146
-#EXTINF:-1 tvg-id="6564" tvg-name="CCTV-女性时尚" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVwoman.png" group-title="央视频道", CCTV-女性时尚
+#EXTINF:-1 tvg-id="1653" tvg-name="CCTV-女性时尚" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVwoman.png" group-title="央视频道", CCTV-女性时尚
 http://10.0.0.3:5140/rtp/239.253.43.8:5146
-#EXTINF:-1 tvg-id="6564" tvg-name="CCTV-女性时尚" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVwoman.png" group-title="央视频道", CCTV-女性时尚
+#EXTINF:-1 tvg-id="1653" tvg-name="CCTV-女性时尚" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVwoman.png" group-title="央视频道", CCTV-女性时尚
 http://10.0.0.3:5140/rtp/239.253.43.23:5146
-#EXTINF:-1 tvg-id="6560" tvg-name="CCTV-世界地理" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVdl.png" group-title="央视频道", CCTV-世界地理
+#EXTINF:-1 tvg-id="1649" tvg-name="CCTV-世界地理" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVdl.png" group-title="央视频道", CCTV-世界地理
 http://10.0.0.3:5140/rtp/239.253.43.7:5146
-#EXTINF:-1 tvg-id="6560" tvg-name="CCTV-世界地理" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVdl.png" group-title="央视频道", CCTV-世界地理
+#EXTINF:-1 tvg-id="1649" tvg-name="CCTV-世界地理" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVdl.png" group-title="央视频道", CCTV-世界地理
 http://10.0.0.3:5140/rtp/239.253.43.24:5146
-#EXTINF:-1 tvg-id="6562" tvg-name="CCTV-怀旧剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVhj.png" group-title="央视频道", CCTV-怀旧剧场
+#EXTINF:-1 tvg-id="1651" tvg-name="CCTV-怀旧剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVhj.png" group-title="央视频道", CCTV-怀旧剧场
 http://10.0.0.3:5140/rtp/239.253.43.5:5146
-#EXTINF:-1 tvg-id="6562" tvg-name="CCTV-怀旧剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVhj.png" group-title="央视频道", CCTV-怀旧剧场
+#EXTINF:-1 tvg-id="1651" tvg-name="CCTV-怀旧剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVhj.png" group-title="央视频道", CCTV-怀旧剧场
 http://10.0.0.3:5140/rtp/239.253.43.25:5146
-#EXTINF:-1 tvg-id="6559" tvg-name="CCTV-风云剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfy.png" group-title="央视频道", CCTV-风云剧场
+#EXTINF:-1 tvg-id="1648" tvg-name="CCTV-风云剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfy.png" group-title="央视频道", CCTV-风云剧场
 http://10.0.0.3:5140/rtp/239.253.43.16:5146
-#EXTINF:-1 tvg-id="6559" tvg-name="CCTV-风云剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfy.png" group-title="央视频道", CCTV-风云剧场
+#EXTINF:-1 tvg-id="1648" tvg-name="CCTV-风云剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfy.png" group-title="央视频道", CCTV-风云剧场
 http://10.0.0.3:5140/rtp/239.253.43.26:5146
-#EXTINF:-1 tvg-id="6569" tvg-name="CCTV-央视文化精品" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVwh.png" group-title="央视频道", CCTV-央视文化精品
+#EXTINF:-1 tvg-id="1658" tvg-name="CCTV-央视文化精品" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVwh.png" group-title="央视频道", CCTV-央视文化精品
 http://10.0.0.3:5140/rtp/239.253.43.13:5146
-#EXTINF:-1 tvg-id="6569" tvg-name="CCTV-央视文化精品" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVwh.png" group-title="央视频道", CCTV-央视文化精品
+#EXTINF:-1 tvg-id="1658" tvg-name="CCTV-央视文化精品" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVwh.png" group-title="央视频道", CCTV-央视文化精品
 http://10.0.0.3:5140/rtp/239.253.43.27:5146
-#EXTINF:-1 tvg-id="6558" tvg-name="CCTV-第一剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVdy.png" group-title="央视频道", CCTV-第一剧场
+#EXTINF:-1 tvg-id="1647" tvg-name="CCTV-第一剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVdy.png" group-title="央视频道", CCTV-第一剧场
 http://10.0.0.3:5140/rtp/239.253.43.15:5146
-#EXTINF:-1 tvg-id="6558" tvg-name="CCTV-第一剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVdy.png" group-title="央视频道", CCTV-第一剧场
+#EXTINF:-1 tvg-id="1647" tvg-name="CCTV-第一剧场" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVdy.png" group-title="央视频道", CCTV-第一剧场
 http://10.0.0.3:5140/rtp/239.253.43.28:5146
-#EXTINF:-1 tvg-id="6557" tvg-name="CCTV-风云音乐" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVmusic.png" group-title="央视频道", CCTV-风云音乐
+#EXTINF:-1 tvg-id="1646" tvg-name="CCTV-风云音乐" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVmusic.png" group-title="央视频道", CCTV-风云音乐
 http://10.0.0.3:5140/rtp/239.253.43.6:5146
-#EXTINF:-1 tvg-id="6557" tvg-name="CCTV-风云音乐" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVmusic.png" group-title="央视频道", CCTV-风云音乐
+#EXTINF:-1 tvg-id="1646" tvg-name="CCTV-风云音乐" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVmusic.png" group-title="央视频道", CCTV-风云音乐
 http://10.0.0.3:5140/rtp/239.253.43.29:5146
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-卫生健康" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVws.png" group-title="央视频道",CCTV-卫生健康
 http://10.0.0.3:5140/rtp/239.77.0.212:5146
@@ -473,9 +473,9 @@ http://10.0.0.3:5140/rtp/239.77.0.200:5146
 http://10.0.0.3:5140/rtp/239.77.1.222:5146
 #EXTINF:-1 tvg-id="74" tvg-name="CETV2" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CETV2.png" group-title="央视频道",CETV2
 http://10.0.0.3:5140/rtp/239.77.0.28:5146
-#EXTINF:-1 tvg-id="7245" tvg-name="CETV4" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CETV4.png" group-title="央视频道",CETV4
+#EXTINF:-1 tvg-id="1860" tvg-name="CETV4" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CETV4.png" group-title="央视频道",CETV4
 http://10.0.0.3:5140/rtp/239.253.43.114:5146
-#EXTINF:-1 tvg-id="7245" tvg-name="CETV4" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CETV4.png" group-title="央视频道",CETV4高清
+#EXTINF:-1 tvg-id="1860" tvg-name="CETV4" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CETV4.png" group-title="央视频道",CETV4高清
 http://10.0.0.3:5140/rtp/239.253.43.40:5146
 #EXTINF:-1 tvg-id="6581" tvg-name="CETV早期教育" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CETV5.png" group-title="央视频道",CETV早期教育高清
 http://10.0.0.3:5140/rtp/239.77.1.122:5146
@@ -483,13 +483,13 @@ http://10.0.0.3:5140/rtp/239.77.1.122:5146
 http://10.0.0.3:5140/rtp/239.77.1.114:5146
 #EXTINF:-1 tvg-id="6581" tvg-name="CETV早期教育" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CETV5.png" group-title="央视频道",CETV早期教育高清
 http://10.0.0.3:5140/rtp/239.77.0.180:5146
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-country="US" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/qiusuo.png" group-title="央视频道",求索纪录
+#EXTINF:-1 tvg-id="1642" tvg-name="求索记录" tvg-country="US" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/qiusuo.png" group-title="央视频道",求索纪录
 http://10.0.0.3:5140/rtp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/zgtq.png" group-title="央视频道",中国天气高清
 http://10.0.0.3:5140/rtp/239.77.1.2:5146
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/guoxue.png" group-title="央视频道",国学
+#EXTINF:-1 tvg-id="1679" tvg-name="国学" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/guoxue.png" group-title="央视频道",国学
 http://10.0.0.3:5140/rtp/239.77.0.226:5146
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/lgs.png" group-title="央视频道",老故事
+#EXTINF:-1 tvg-id="1683" tvg-name="老故事" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/lgs.png" group-title="央视频道",老故事
 http://10.0.0.3:5140/rtp/239.77.0.220:5146
 #EXTINF:-1 tvg-id="" tvg-name="中学生" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/zxs.png" group-title="央视频道",中学生
 http://10.0.0.3:5140/rtp/239.77.1.195:5146
@@ -497,11 +497,11 @@ http://10.0.0.3:5140/rtp/239.77.1.195:5146
 http://10.0.0.3:5140/rtp/239.253.43.127:5146
 #EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/fxzl.png" group-title="央视频道",发现之旅
 http://10.0.0.3:5140/rtp/239.77.1.112:5146
-#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/hqqg.png" group-title="央视频道",环球奇观
+#EXTINF:-1 tvg-id="1678" tvg-name="环球奇观" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/hqqg.png" group-title="央视频道",环球奇观
 http://10.0.0.3:5140/rtp/239.253.43.126:5146
 #EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/hqqg.png" group-title="央视频道",环球奇观
 http://10.0.0.3:5140/rtp/239.77.1.198:5146
-#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/shuhua.png" group-title="央视频道",书画频道
+#EXTINF:-1 tvg-id="1685" tvg-name="书画频道" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/shuhua.png" group-title="央视频道",书画频道
 http://10.0.0.3:5140/rtp/239.77.1.115:5146
 #EXTINF:-1 tvg-id="106" tvg-name="广东卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDtv.png" group-title="4k频道",广东卫视4k超高清25p
 http://10.0.0.3:5140/rtp/239.77.0.65:5146
@@ -531,6 +531,8 @@ http://10.0.0.3:5140/rtp/239.77.1.14:5146
 http://10.0.0.3:5140/rtp/239.77.1.191:5146
 #EXTINF:-1 tvg-id="106" tvg-name="深圳卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/SZTV.png" group-title="4k频道",深圳卫视 4K (AVS2)
 #http://10.0.0.3:5140/rtp/239.77.1.194:5146
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV-16 4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV16.png" group-title="4k频道",CCTV-16 4K
+http://10.0.0.3:5140/rtp/239.77.0.18:5146
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K超高清" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV4K.png" group-title="4k频道",CCTV4K超高清-25P
 http://10.0.0.3:5140/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K超高清" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV4K.png" group-title="4k频道",CCTV4K超高清
@@ -982,17 +984,17 @@ http://10.0.0.3:5140/rtp/239.77.1.9:5146
 http://10.0.0.3:5140/rtp/239.77.1.10:5146
 #EXTINF:-1 tvg-id="" tvg-name="IPTV收视指南" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/IPTVhd.png" group-title="IPTV",IPTV收视指南
 http://10.0.0.3:5140/rtp/239.77.0.111:5146
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCdz.png" group-title="IPTV",CHC动作电影
+#EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCdz.png" group-title="IPTV",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCdz.png" group-title="IPTV",CHC动作电影
+#EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCdz.png" group-title="IPTV",CHC动作电影
 http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCdz.png" group-title="IPTV",CHC动作电影
+#EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCdz.png" group-title="IPTV",CHC动作电影
 http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCdz.png" group-title="IPTV",CHC动作电影
+#EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCdz.png" group-title="IPTV",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCjt.png" group-title="IPTV",CHC家庭影院
+#EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭影院" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCjt.png" group-title="IPTV",CHC家庭影院
 http://43.251.226.89:8080/play/225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCjt.png" group-title="IPTV",CHC家庭影院
+#EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭影院" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCjt.png" group-title="IPTV",CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCjt.png" group-title="IPTV",CHC家庭影院
+#EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭影院" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/CHCjt.png" group-title="IPTV",CHC家庭影院
 http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
