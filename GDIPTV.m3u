@@ -822,7 +822,7 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV Asia Live Event" tvg-country="US" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/FN/BloombergTVAsia.png" group-title="世界财经",Bloomberg TV Asia Live Event 
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="Bloomberg Quicktake" tvg-country="US" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/FN/Bloomberg%20Quicktake.png" group-title="世界财经",Bloomberg Quicktake
+#EXTINF:-1 tvg-id="6140" tvg-name="Bloomberg Quicktake" tvg-country="US" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/FN/BloombergQuicktake.png" group-title="世界财经",Bloomberg Quicktake
 https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="Yahoo! Finance" tvg-country="US" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/FN/YahooFinance.png" group-title="世界财经",Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
