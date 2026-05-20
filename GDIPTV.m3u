@@ -37,8 +37,6 @@ http://10.0.0.3:5140/rtp/239.77.0.19:5146
 http://10.0.0.3:5140/rtp/239.77.0.22:5146
 #EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-country="CN" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDxq.png" group-title="广东电视",岭南戏曲
 http://10.0.0.3:5140/rtp/239.77.0.122:5146
-#EXTINF:-1 tvg-id="" tvg-name="现代教育" tvg-country="CN" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDjy.png" group-title="广东电视",广东现代教育
-http://10.0.0.3:5140/rtp/239.77.0.213:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-country="CN" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GZtv.png" group-title="广东电视",广州综合高清
 http://10.0.0.3:5140/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GZnews.png" group-title="广东电视",广州新闻高清
@@ -503,21 +501,21 @@ http://10.0.0.3:5140/rtp/239.253.43.126:5146
 http://10.0.0.3:5140/rtp/239.77.1.198:5146
 #EXTINF:-1 tvg-id="1685" tvg-name="书画频道" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/IPTV/shuhua.png" group-title="央视频道",书画频道
 http://10.0.0.3:5140/rtp/239.77.1.115:5146
-#EXTINF:-1 tvg-id="106" tvg-name="广东卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDtv.png" group-title="4k频道",广东卫视4k超高清25p
+#EXTINF:-1 tvg-id="106" tvg-name="广东卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDtv4k.png" group-title="4k频道",广东卫视4k超高清25p
 http://10.0.0.3:5140/rtp/239.77.0.65:5146
-#EXTINF:-1 tvg-id="106" tvg-name="广东卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDtv.png" group-title="4k频道",广东卫视4K (AVS2)
+#EXTINF:-1 tvg-id="106" tvg-name="广东卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDtv4k.png" group-title="4k频道",广东卫视4K (AVS2)
 #http://10.0.0.3:5140/rtp/239.77.1.96:5146
-#EXTINF:-1 tvg-id="106" tvg-name="广东卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDtv.png" group-title="4k频道",广东卫视4K (AVS2)
+#EXTINF:-1 tvg-id="106" tvg-name="广东卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDtv4k.png" group-title="4k频道",广东卫视4K (AVS2)
 #http://10.0.0.3:5140/rtp/239.77.1.16:5146
-#EXTINF:-1 tvg-id="106" tvg-name="广东卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDtv.png" group-title="4k频道",广东卫视4K 25p
+#EXTINF:-1 tvg-id="106" tvg-name="广东卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GDtv4k.png" group-title="4k频道",广东卫视4K 25p
 http://10.0.0.3:5140/rtp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="106" tvg-name="广东4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GD4k.png" group-title="4k频道",广东4K超高清
+#EXTINF:-1 tvg-id="106" tvg-name="广东4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GD4K.png" group-title="4k频道",广东4K超高清
 http://10.0.0.3:5140/rtp/239.77.0.244:5146
-#EXTINF:-1 tvg-id="106" tvg-name="广东4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GD4k.png" group-title="4k频道",广东4K超高清 窄色域 30
+#EXTINF:-1 tvg-id="106" tvg-name="广东4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GD4K.png" group-title="4k频道",广东4K超高清 窄色域 30
 http://10.0.0.3:5140/rtp/239.77.0.245:5146
-#EXTINF:-1 tvg-id="106" tvg-name="广东4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GD4k.png" group-title="4k频道",广东4K宽色域AVS2(4k) (AVS2)
+#EXTINF:-1 tvg-id="106" tvg-name="广东4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GD4K.png" group-title="4k频道",广东4K宽色域AVS2(4k) (AVS2)
 #http://10.0.0.3:5140/rtp/239.77.0.252:5146
-#EXTINF:-1 tvg-id="106" tvg-name="广东4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GD4k.png" group-title="4k频道",广东4K
+#EXTINF:-1 tvg-id="106" tvg-name="广东4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GD4K.png" group-title="4k频道",广东4K
 http://10.0.0.3:5140/rtp/239.77.1.237:5146
 #EXTINF:-1 tvg-id="" tvg-name="南国都市4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/GZng.png" group-title="4k频道",南国都市4K
 http://10.0.0.3:5140/rtp/239.253.43.99:5146
