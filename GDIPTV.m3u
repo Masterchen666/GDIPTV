@@ -146,11 +146,17 @@ http://10.0.0.3:5140/rtp/239.253.43.82:5146
 #EXTINF:-1 tvg-id="" tvg-name="阳江-2" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/GD/YangJiangTV.png" group-title="广东电视",阳江-2高清
 http://10.0.0.3:5140/rtp/239.253.43.83:5146
 #EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台
+https://stream1.freetv.fun/0f0395c924dc13b6e2461a9ea78f4557372bbf3c2f7493d4ffd9181d3202f74d.ctv
+#EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB.png" group-title="港台频道",TVB 翡翠台TVB PLUS(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="120" tvg-name="TVB PLUS" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBPLUS.png" group-title="港台频道",TVB PLUS
+https://stream1.freetv.fun/dec5e1d162ddc4e733fb714c2c8795323ccf94261596cffe7ee65f0034986c70.ctv
+#EXTINF:-1 tvg-id="121" tvg-name="TVB 明珠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBpearl.png" group-title="港台频道",TVB 明珠台
+https://stream1.freetv.fun/18147fe9227d749afdbf2b79ad6a6182ecd2276f2338a696d0c23d998e2763b2.ctv
 #EXTINF:-1 tvg-id="121" tvg-name="TVB 明珠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBpearl.png" group-title="港台频道",TVB 明珠台(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
@@ -173,6 +179,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=26
 http://iptv.4666888.xyz/iptv2A.php?id=24
 #EXTINF:-1 tvg-id="" tvg-name="TVB 娛樂新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVByl.png" group-title="港台频道",TVB 娛樂新聞台
 http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1 tvg-id="" tvg-name="TVB 千禧經典台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVB_Classic.png" group-title="港台频道",TVB 千禧經典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-name="TVB 劇集台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBd.png" group-title="港台频道",TVB 劇集台
 http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 tvg-id="" tvg-name="TVB 武侠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBgf.png" group-title="港台频道",TVB 武侠台
