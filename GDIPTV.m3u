@@ -181,6 +181,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=33
 http://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 tvg-id="" tvg-name="TVB 星河" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/TVBxh.png" group-title="港台频道",TVB 星河
 https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/HOY77.png" group-title="港台频道",HOY77
+http://cdn6.163189.xyz/163189/hoy
+#EXTINF:-1 tvg-id="" tvg-name="HOY78" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/HOY78.png" group-title="港台频道",HOY78
+http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="7119" tvg-name="有線財經信息台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/cablefinance.png" group-title="港台频道",有線財經信息台
 https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="香港有線新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/CableNews.png" group-title="港台频道",香港有線新聞台
@@ -194,15 +198,11 @@ https://epg.pm/stream/7f7227d59a7dce31cf6910bcdb4ed741f8fb5994cecb87d2bba38adf33
 #EXTINF:-1 tvg-id="7122" tvg-name="香港有線新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/CableNews.png" group-title="港台频道",香港有線新聞台
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/ViuTV.png" group-title="港台频道",ViuTV
-http://r.jdshipin.com/vSJvl
+https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV6" tvg-country="HK" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/ViuTVsix.png" group-title="港台频道",ViuTV6
 https://stream1.freetv.fun/2022de93c6175f00f9f45e21257f2a488e5631f779ee9a6780b403d77e2429b2.ctv
-#EXTINF:-1 tvg-id="" tvg-name="ViuTV6" tvg-country="HK" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/ViuTVsix.png" group-title="港台频道",ViuTV6
-https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.ctv
 #EXTINF:-1 tvg-id="" tvg-name="now新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/Nownews.png" group-title="港台频道",now新聞台
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="" tvg-name="now新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/Nownews.png" group-title="港台频道",now新聞台
-https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.m3u8
 #EXTINF:-1 tvg-id="164" tvg-name="now財經台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/Nowcj.png" group-title="港台频道",now財經台
 https://stream1.freetv.fun/6f9c76c500afbfd33350f7e4ab4b7051a577ab6e5f1a9317b35b8c7f1f838512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now星影台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/NOWm.png" group-title="港台频道",now星影台
@@ -218,9 +218,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK31" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/RTHK31.png" group-title="港台频道",港台電視RTHK31
 https://stream1.freetv.fun/f949dc5cc37d26e396ca35685a1d15c07f901902d43fc812879f722eba1c1b33.ctv
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK32" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/RTHK32.png" group-title="港台频道",港台電視RTHK32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK32" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/RTHK32.png" group-title="港台频道",港台電視RTHK32
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK33" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/RTHK33.png" group-title="港台频道",港台電視RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK34" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/RTHK34.png" group-title="港台频道",港台電視RTHK34
@@ -243,14 +241,14 @@ https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 #http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亞電影" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/MeiAhmovie.png" group-title="港台频道",美亞電影
 #http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOY TV 77" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/hoy-tv.png" group-title="港台频道",HOY TV 77
-http://cdn6.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-id="" tvg-name="HOY TV 77" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/hoy-tv.png" group-title="港台频道",HOY TV 77
-#http://r.jdshipin.com/sFw4S
 #EXTINF:-1 tvg-id="" tvg-name="面包台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/BreadTV.png" group-title="港台频道",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/DTM.png" group-title="港台频道",澳视澳门
+http://cdn6.163189.xyz/163189/asam
+#EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/DTM.png" group-title="港台频道",澳门体育
+http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="370143" tvg-name="華視CTS" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/cts.png" group-title="港台频道",華視CTS
-https://stream1.freetv.fun/fdaba29a960132ff3fb0cfc8d47d2d5a68e1a324e44c9270fe2c2d2da9d4fee0.ctv
+rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="" tvg-name="華視教育體育文化" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/cts2.png" group-title="港台频道",華視教育體育文化
 #https://stream1.freetv.fun/017ff44bd64fc453517ef4833dc00ae3183958d98f36a58a70f9b5d06b01ae47.ctv
 #EXTINF:-1 tvg-id="" tvg-name="華視新聞資訊" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/ctsnews.png" group-title="港台频道",華視新聞資訊
@@ -276,7 +274,7 @@ https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf
 #EXTINF:-1 tvg-id="" tvg-name="中視經典" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/ctv.png" group-title="港台频道",中視經典
 https://stream1.freetv.fun/f011a428fab735796e6c5c5f2df0c46acd2524969a4d24dbb32a6fbb38ea95b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中視" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/ctv.png" group-title="港台频道",中視
-https://stream1.freetv.fun/c8873c3b27c1c74e1e11812d7440fcfa2e47b3a3ccfb500c672a95dac8cc293e.ctv
+rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="" tvg-name="公視" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/pts.png" group-title="港台频道",公視
 https://stream1.freetv.fun/08350865cfa8795ecb8e2c587a4c947cfa66c55c31b6384a6985f05f0951c135.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="公視" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/pts.png" group-title="港台频道",公視
@@ -788,6 +786,10 @@ http://cdn6.163189.xyz/163189/ch8
 http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-country="MY" tvg-language="国语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/JP/8TV.png" group-title="国际频道",8TV
 http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-id="" tvg-name="astro AOD" tvg-country="MY" tvg-language="国语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/AS/astorAOD.png" group-title="国际频道",astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="" tvg-name="astro AOD" tvg-country="MY" tvg-language="国语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/AS/astroAEC.png" group-title="国际频道",astro AEC
+https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-id="" tvg-name="astro 欢喜台" tvg-country="MY" tvg-language="国语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/AS/astrosx.png" group-title="国际频道",astro 欢喜台
 https://stream1.freetv.fun/70c698cbeadf092a778a3184cfd61eab0262bf7f5afb2a3e79fadadd45c08fe2.ctv
 #EXTINF:-1 tvg-id="" tvg-name="astro 欢喜台" tvg-country="MY" tvg-language="国语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/AS/astrosx.png" group-title="国际频道",astro 欢喜台
@@ -826,6 +828,24 @@ http://10.0.0.3:5140/rtp/239.77.0.170:5146
 http://10.0.0.3:5140/rtp/239.77.0.87:5146
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV5plus.png" group-title="世界体育",CCTV-5+体育赛事高清
 http://10.0.0.3:5140/rtp/239.77.1.31:5146
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV-16奥林匹克" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV16.png" group-title="世界体育",CCTV-16奥林匹克高清
+http://10.0.0.3:5140/rtp/239.77.0.165:5146
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV-16 4K" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTV16.png" group-title="世界体育",CCTV-16 4K
+http://10.0.0.3:5140/rtp/239.77.0.18:5146
+#EXTINF:-1 tvg-id="1424" tvg-name="CCTV-风云足球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfooball.png" group-title="世界体育", CCTV-风云足球
+http://10.0.0.3:5140/rtp/239.253.43.14:5146
+#EXTINF:-1 tvg-id="1424" tvg-name="CCTV-风云足球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVfooball.png" group-title="世界体育", CCTV-风云足球
+http://10.0.0.3:5140/rtp/239.253.43.20:5146
+#EXTINF:-1 tvg-id="6584" tvg-name="CCTV-央视台球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVtq.png" group-title="世界体育", CCTV-央视台球
+http://10.0.0.3:5140/rtp/239.253.43.11:5146
+#EXTINF:-1 tvg-id="6584" tvg-name="CCTV-央视台球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVtq.png" group-title="世界体育", CCTV-央视台球
+http://10.0.0.3:5140/rtp/239.253.43.21:5146
+#EXTINF:-1 tvg-id="1657" tvg-name="CCTV-高尔夫·网球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVgolf.png" group-title="世界体育", CCTV-高尔夫·网球
+http://10.0.0.3:5140/rtp/239.253.43.12:5146
+#EXTINF:-1 tvg-id="1657" tvg-name="CCTV-高尔夫·网球" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/CCTV/CCTVgolf.png" group-title="世界体育", CCTV-高尔夫·网球
+http://10.0.0.3:5140/rtp/239.253.43.22:5146
+#EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/DTM.png" group-title="世界体育",澳门体育
+http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="6" tvg-name="博斯網球" tvg-country="TW" tvg-language="国语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/bosi1.png" group-title="世界体育",博斯網球
 https://stream1.freetv.fun/3462833b3ec823fe4b029f49e771099624993a5a3bf5ecaee44533c81bf57064.ctv
 #EXTINF:-1 tvg-id="6" tvg-name="博斯網球" tvg-country="TW" tvg-language="国语" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/bosi1.png" group-title="世界体育",博斯網球
