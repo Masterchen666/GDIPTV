@@ -243,9 +243,9 @@ https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 #http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="面包台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/BreadTV.png" group-title="港台频道",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/DTM.png" group-title="港台频道",澳视澳门
+#EXTINF:-1 tvg-id="" tvg-name="澳視澳門" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/DTM.png" group-title="港台频道",澳視澳門
 http://cdn6.163189.xyz/163189/asam
-#EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/DTM.png" group-title="港台频道",澳门体育
+#EXTINF:-1 tvg-id="" tvg-name="澳門體育" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/HK/DTM.png" group-title="港台频道",澳門體育
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="370143" tvg-name="華視CTS" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/TW/cts.png" group-title="港台频道",華視CTS
 rtmp://f13h.mine.nu/sat/tv111
