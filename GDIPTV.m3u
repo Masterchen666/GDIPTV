@@ -763,7 +763,7 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC News Now" tvg-country="US" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/US/NBCNewsNow.png" group-title="国际频道",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEWSMAX" tvg-country="US" tvg-language="英语" tvg-logo="p://10.0.0.10:3001/api/images/US/NewsmaxTV.png" group-title="国际频道",NEWSMAX
+#EXTINF:-1 tvg-id="" tvg-name="NEWSMAX" tvg-country="US" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/US/NewsmaxTV.png" group-title="国际频道",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-country="QA" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/ZD/AIJazeera.png" group-title="国际频道",Al Jazeera
 https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
