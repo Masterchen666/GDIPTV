@@ -146,45 +146,39 @@ http://10.0.0.3:5140/rtp/239.253.43.82:5146
 #EXTINF:-1 tvg-id="" tvg-name="阳江-2" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/GD/YangJiangTV.png" group-title="广东电视",阳江-2高清
 http://10.0.0.3:5140/rtp/239.253.43.83:5146
 #EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVB.png" group-title="港台频道",TVB 翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/
+https://stream1.freetv.fun/363a02513a5dbd6658d52b26c733386779319595957dce38c539ddb689d7b401.m3u8
 #EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVB.png" group-title="港台频道",TVB 翡翠台(多音轨字幕)
-https://o11.163189.xyz/stream/tvb/fct/
+#https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-id="120" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVB.png" group-title="港台频道",TVB 翡翠台TVB PLUS(多音轨字幕)
-https://o11.163189.xyz/stream/tvb/tvbp/
+#https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="121" tvg-name="TVB 明珠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBpearl.png" group-title="港台频道",TVB 明珠台(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
-http://cdn6.163189.xyz/163189/wxxw
+#http://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
-http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-#EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
-#http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-id="123" tvg-name="TVB無綫新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBnews.png" group-title="港台频道",TVB 無綫新聞台
-#http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+#http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-id="416" tvg-name="J1" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVB%20J1.png" group-title="港台频道",J1
 #http://67.220.67.246:2347/livehttpplay?channel_id=30023
-#EXTINF:-1 tvg-id="416" tvg-name="J1" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVB%20J1.png" group-title="港台频道",J1
-#http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBJ2.png" group-title="港台频道",J2
 #http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4
 #EXTINF:-1 tvg-id="416" tvg-name="MyTV SUPER" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBtv.png" group-title="港台频道",MyTV SUPER
-http://iptv.4666888.xyz/iptv2A.php?id=24
+#http://iptv.4666888.xyz/iptv2A.php?id=24
 #EXTINF:-1 tvg-id="" tvg-name="TVB 娛樂新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVByl.png" group-title="港台频道",TVB 娛樂新聞台
-http://iptv.4666888.xyz/iptv2A.php?id=36
+#http://iptv.4666888.xyz/iptv2A.php?id=36
 #EXTINF:-1 tvg-id="" tvg-name="TVB 千禧經典台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVB_Classic.png" group-title="港台频道",TVB 千禧經典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-name="TVB 劇集台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBd.png" group-title="港台频道",TVB 劇集台
-http://iptv.4666888.xyz/iptv2A.php?id=33
+#http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 tvg-id="" tvg-name="TVB 武侠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBgf.png" group-title="港台频道",TVB 武侠台
-http://cdn6.163189.xyz/163189/yzwx
+#http://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 tvg-id="" tvg-name="TVB 星河" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVBxh.png" group-title="港台频道",TVB 星河
-https://o11.163189.xyz/stream/live/tvbxh/
+#https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/HOY77.png" group-title="港台频道",HOY77
-http://cdn6.163189.xyz/163189/hoy
+#http://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="" tvg-name="HOY78" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/HOY78.png" group-title="港台频道",HOY78
-http://cdn.163189.xyz/163189/hoy78
+#http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="7119" tvg-name="有線財經信息台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/cablefinance.png" group-title="港台频道",有線財經信息台
 #https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="香港有線新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/CableNews.png" group-title="港台频道",香港有線新聞台
@@ -198,53 +192,47 @@ http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="7122" tvg-name="香港有線新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/CableNews.png" group-title="港台频道",香港有線新聞台
 #http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/ViuTV.png" group-title="港台频道",ViuTV
-https://cdn.163189.xyz/163189/viu
+#https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV6" tvg-country="HK" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/HK/ViuTVsix.png" group-title="港台频道",ViuTV6
-https://stream1.freetv.fun/2022de93c6175f00f9f45e21257f2a488e5631f779ee9a6780b403d77e2429b2.ctv
+#https://stream1.freetv.fun/2022de93c6175f00f9f45e21257f2a488e5631f779ee9a6780b403d77e2429b2.ctv
 #EXTINF:-1 tvg-id="" tvg-name="now新聞台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/Nownews.png" group-title="港台频道",now新聞台
-http://cdn.163189.xyz/163189/now
+#http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="164" tvg-name="now財經台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/Nowcj.png" group-title="港台频道",now財經台
-https://stream1.freetv.fun/6f9c76c500afbfd33350f7e4ab4b7051a577ab6e5f1a9317b35b8c7f1f838512.m3u8
+#https://stream1.freetv.fun/6f9c76c500afbfd33350f7e4ab4b7051a577ab6e5f1a9317b35b8c7f1f838512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now星影台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/NOWm.png" group-title="港台频道",now星影台
 #http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now SPORTS PRIME" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/NowSportsPrime.png" group-title="港台频道",now SPORTS PRIME
-https://stream1.freetv.fun/532b7aadf6620fa7495d3e9d13dd327378e73a41d774b8e0af98450c24fa8a51.m3u8
+#https://stream1.freetv.fun/532b7aadf6620fa7495d3e9d13dd327378e73a41d774b8e0af98450c24fa8a51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK31" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/RTHK31.png" group-title="港台频道",港台電視RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK31" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/RTHK31.png" group-title="港台频道",港台電視RTHK31
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+##https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK32" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/RTHK32.png" group-title="港台频道",港台電視RTHK32
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK32" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/RTHK32.png" group-title="港台频道",港台電視RTHK32
-http://cdn.163189.xyz/163189/rthk32
+#http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK33" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/RTHK33.png" group-title="港台频道",港台電視RTHK33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK34" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/RTHK34.png" group-title="港台频道",港台電視RTHK34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK35" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/RTHK35.png" group-title="港台频道",港台電視RTHK35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視RTHK36" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/RTHK36.png" group-title="港台频道",港台電視RTHK36
 #https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/HK/PHTVchinese.png" group-title="港台频道",鳳凰中文
-https://cdn6.163189.xyz/163189/fhzw
+#https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/HK/PHTVzx.png" group-title="港台频道",鳳凰資訊
-http://cdn6.163189.xyz/163189/fhzx
+#http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="143" tvg-name="鳳凰香港" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/HK/PHTVhk.png" group-title="港台频道",鳳凰香港
-http://cdn6.163189.xyz/163189/fhhk
+#http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-id="" tvg-name="亚洲卫视" tvg-country="HK" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/HK/ASTV.png" group-title="港台频道",亚洲卫视
-https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+#https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亞C+" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/C.png" group-title="港台频道",美亞C+
 #http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="美亞C+" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/C.png" group-title="港台频道",美亞C+
-#http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亞電影" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/MeiAhmovie.png" group-title="港台频道",美亞電影
 #http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="面包台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/BreadTV.png" group-title="港台频道",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳視澳門" tvg-country="MO" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/DTM.png" group-title="港台频道",澳視澳門
-http://cdn6.163189.xyz/163189/asam
+#http://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-id="" tvg-name="澳門體育" tvg-country="MO" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/DTM.png" group-title="港台频道",澳門體育
-http://cdn6.163189.xyz/163189/amty
+#http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="370143" tvg-name="華視CTS" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/TW/cts.png" group-title="港台频道",華視CTS
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="" tvg-name="華視教育體育文化" tvg-country="TW" tvg-language="國語" tvg-logo="http://10.0.0.10:3001/api/images/TW/cts2.png" group-title="港台频道",華視教育體育文化
@@ -546,7 +534,7 @@ http://10.0.0.3:5140/rtp/239.77.0.60:5146
 #EXTINF:-1 tvg-id="56" tvg-name="精选4k频道3" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/IPTV/cx4k.png" group-title="4k频道",精选4k频道3
 http://10.0.0.3:5140/rtp/239.77.0.153:5146
 #EXTINF:-1 tvg-id="126" tvg-name="TVB 翡翠台" tvg-country="HK" tvg-language="广东话" tvg-logo="http://10.0.0.10:3001/api/images/HK/TVB.png" group-title="4k频道",TVB 翡翠台4K
-#http://cdn6.163189.xyz/163189/fct4k
+#http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV+" tvg-country="US" tvg-language="英语" tvg-logo="http://10.0.0.10:3001/api/images/FN/BloombergTVplus.png" group-title="4k频道",Bloomberg TV+
 https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="普通话" tvg-logo="http://10.0.0.10:3001/api/images/WS/HNTV.png" group-title="中国卫视",湖南卫视时移专用(湖南卫视)
